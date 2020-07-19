@@ -5,5 +5,7 @@ welcome
 rice 
 pasta
 chicken
+beans
+pizza
 
 Thank you
