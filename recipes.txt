@@ -5,7 +5,13 @@ welcome
 rice 
 pasta
 chicken
+beans
+pizza
 
 Thank you
 
+
+done my changes
+
 final copy
+
